@@ -1,7 +1,0 @@
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\bin\Debug\LeapMouse.exe.config
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\bin\Debug\LeapMouse.exe
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\bin\Debug\LeapMouse.pdb
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\bin\Debug\LeapCSharp.NET4.0.dll
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\obj\Debug\LeapMouse.exe
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\obj\Debug\LeapMouse.pdb
-C:\Users\Jeremy\documents\visual studio 2012\Projects\LeapMouse\LeapMouse\obj\Debug\LeapMouse.csprojResolveAssemblyReference.cache
